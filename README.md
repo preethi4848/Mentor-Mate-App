@@ -70,7 +70,8 @@ Hence to solve this issue we have come up with an android based College Connect 
 <br/>
 <img src="https://github.com/preethi4848/Mentor-Mate-App/blob/main/Screen%20Shots/9.jpg">
 <br/>
-## Administration Panel
+
+### Administration Panel
 <img src="https://github.com/preethi4848/Mentor-Mate-App/blob/main/Screen%20Shots/10.jpg">
 <br/>
 
