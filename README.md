@@ -107,6 +107,6 @@ This project was developed with the following technologies:
 ## Maintainers and Developers
 This repository is owned and maintained by 
  * [Preethi G](https://github.com/preethi4848)
- * [Pooja N K](https://github.com/#)
+ * [Pooja N K](https://github.com/Poojankumar50)
 
 
