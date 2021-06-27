@@ -42,12 +42,48 @@ Hence to solve this issue we have come up with an android based College Connect 
 
 ## 👨‍ App Overview
 
-#### Welcome Screen
-<img src="">
+### Welcome Screen
+<img src="https://github.com/preethi4848/Mentor-Mate-App/blob/main/Screen%20Shots/1.jpg">
 <br/>
 
-#### Home Page
-<img src="">
+### Home Page
+<img src="https://github.com/preethi4848/Mentor-Mate-App/blob/main/Screen%20Shots/2.jpg">
+<br/>
+
+### Teacher Panel
+<img src="https://github.com/preethi4848/Mentor-Mate-App/blob/main/Screen%20Shots/3.jpg">
+<br/>
+<img src="https://github.com/preethi4848/Mentor-Mate-App/blob/main/Screen%20Shots/4.jpg">
+<br/>
+
+
+### Student Panel
+<img src="https://github.com/preethi4848/Mentor-Mate-App/blob/main/Screen%20Shots/5.jpg">
+<br/>
+<img src="https://github.com/preethi4848/Mentor-Mate-App/blob/main/Screen%20Shots/6.jpg">
+<br/>
+<img src="https://github.com/preethi4848/Mentor-Mate-App/blob/main/Screen%20Shots/7.jpg">
+<br/>
+
+### College Supervisor Panel
+<img src="https://github.com/preethi4848/Mentor-Mate-App/blob/main/Screen%20Shots/8.jpg">
+<br/>
+<img src="https://github.com/preethi4848/Mentor-Mate-App/blob/main/Screen%20Shots/9.jpg">
+<br/>
+## Administration Panel
+<img src="https://github.com/preethi4848/Mentor-Mate-App/blob/main/Screen%20Shots/10.jpg">
+<br/>
+
+### Club Organiser Panel
+<img src="https://github.com/preethi4848/Mentor-Mate-App/blob/main/Screen%20Shots/11.jpg">
+<br/>
+
+### Video Call App
+<img src="https://github.com/preethi4848/Mentor-Mate-App/blob/main/Screen%20Shots/12.jpg">
+<br/>
+
+### Developed by:
+<img src="https://github.com/preethi4848/Mentor-Mate-App/blob/main/Screen%20Shots/13.jpg">
 <br/>
 
 ## ⚡ Technology
