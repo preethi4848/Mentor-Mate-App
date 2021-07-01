@@ -40,7 +40,7 @@ Hence to solve this issue we have come up with an android based College Connect 
 “MENTOR MATE APP” where all the students & teachers can stay connected together on a single platform, thereby helping all the students to be in constant touch with the faculties and making it possible for them to get their problems solved in an instant. Hence, this android based application will help students to be in contact with their fellow mates & professors all the time without being physically present in a classroom.
 <br>
 
-## Maintainers and Developers
+## Output Demo
 Drive Link: https://drive.google.com/file/d/15YrJL-dBhyS_4sqhD9qihPLEu6dBe9qr/view?usp=sharing
 
 ## 👨‍ App Overview
